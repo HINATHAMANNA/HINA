@@ -1,2 +1,4 @@
 # HINA
+Dashboard public link:1 https://public.tableau.com/views/DASHBOARD1_16969700698580/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link Dashboard public link:2 https://public.tableau.com/views/DASHBOARD2_16969701834520/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link Dashboard public link :3 https://public.tableau.com/views/DASHBOARD3_16969702960610/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link Dashboard public link :4 https://public.tableau.com/views/DASHBOARD4_16969703992210/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link
+Story public link :1 https://public.tableau.com/views/STORY1_16969704961450/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 Analysing Housing prices in Metropolitan Areas of India , Empathy Map , Brainstorm and idea prioritization
